@@ -13,7 +13,7 @@ I bridge the gap between **business strategy and technology**. With a background
 
 | Project | Description |
 |---|---|
-| [Project Name](https://github.com/username/repo) | One-line description of what it does 
+| [Personal blogging system](https://github.com/sunyw921/PersonalBlog-TryCatchMe) | My first full-stack team project, highlighting practical experience in modern web technologies, backend integration, and collaborative & project development.  
 | [Project Name](https://github.com/username/repo) | One-line description of what it does |
 | [Project Name](https://github.com/username/repo) | One-line description of what it does | 
 
