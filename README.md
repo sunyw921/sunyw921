@@ -15,7 +15,8 @@ I bridge the gap between **business strategy and technology**. With a background
 |---|---|
 | [Personal blogging system](https://github.com/sunyw921/PersonalBlog-TryCatchMe) | My first full-stack team project, highlighting practical experience in modern web technologies, backend integration, and collaborative & project development.  
 | [Simple mobile app](https://github.com/sunyw921/RandomFoodPicker) | Extending my MERN stack knowledge into React Native development. |
-| [Project Name](https://github.com/username/repo) | One-line description of what it does | 
+| [French Patisserie Website](working on it) | A frontend-focused e-commerce project demonstrating my React development skills. | 
+| [GrowFriend](working on it) | MERN stack team project: a gamified productivity app combining tasks, Pomodoro, and virtual pet growth. | 
 
 
 ### 🧠 Currently learning
