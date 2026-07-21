@@ -31,4 +31,4 @@ I bridge the gap between **business strategy and technology**. Years driving cro
 
 ---
 
-📬 Reach me at **sunwu.4work@gmail.com**
+📬 Reach me at **ywu4work@gmail.com**
