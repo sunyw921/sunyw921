@@ -2,7 +2,7 @@
 
 **IT Student · Former Technical Talent Professional · Auckland, NZ**
 
-I bridge the gap between **business strategy and technology**. With a background in technical recruitment and product operations, and a growing fluency in full-stack development. I'm drawn to problems that sit at the intersection of people, data, and systems.
+I bridge the gap between **business strategy and technology**. With a background in technical recruitment and product operations, and a growing fluency in full-stack development. I'm drawn to problems that sit at the intersection of products, data, and systems.
 
 
 ### 🎯 Where I'm headed / Open to opportunities with
