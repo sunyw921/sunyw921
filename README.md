@@ -2,7 +2,7 @@
 
 **IT Student · Former Technical Talent Professional · Auckland, NZ**
 
-I bridge the gap between **business strategy and technology**. years driving cross-functional delivery in technical recruitment and product operations, paired with hands-on full-stack development. I'm most engaged where products, data, and systems meet.
+I bridge the gap between **business strategy and technology**. Years driving cross-functional delivery in technical recruitment and product operations, paired with hands-on full-stack development. I'm most engaged where products, data, and systems meet.
 
 
 ### 🎯 Where I'm headed / Open to opportunities with
